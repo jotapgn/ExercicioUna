@@ -1,0 +1,152 @@
+body{
+    background-color: #fff;
+    font-family: 'Inter', sans-serif;
+}
+.header{
+ 
+    height: 90%; 
+    text-align:center; 
+    display:table;
+    width:100%;
+}
+h1{
+    position: absolute;
+width: 555px;
+height: 48px;
+left: 462px;
+top: 33px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+
+color: #6C63FF;
+}
+.header p{
+    position: absolute;
+left: 547px;
+top: 81px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+color: #6C63FF;
+
+}
+.Tech-Microsoft h2{
+    position: absolute;
+    width: 371px;
+    height: 43px;
+    left: 240px;
+    top: 316px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #6C63FF;
+}
+.Tech-Microsoft .descricao{
+    position: absolute;
+    width: 599px;
+    height: 264px;
+    left: 126px;
+    top: 385px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+    
+}
+.Tech-Microsoft p{
+    position: absolute;
+    width: 421px;
+    height: 30px;
+    left: 126px;
+    top: 625px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+    
+    
+}
+.Tech-Microsoft img{
+    position: absolute;
+    width: 533px;
+    height: 371px;
+    left: 792px;
+    top: 284px;
+}
+.Tech-Google h2{
+    position: absolute;
+    width: 316px;
+    height: 42px;
+    left: 267px;
+    top: 672px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #6C63FF;
+}
+.Tech-Google .descricao{
+    position: absolute;
+    width: 614px;
+    height: 216px;
+    left: 126px;
+    top: 737px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+    
+}
+.Tech-Google img{
+    
+position: absolute;
+width: 475px;
+height: 361px;
+left: 821px;
+top: 679px;
+
+}
+.Tech-Google p{
+    position: absolute;
+    width: 421px;
+    height: 30px;
+    left: 126px;
+    top: 956px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+    
+}
+a{
+    color: #6C63FF;
+}
